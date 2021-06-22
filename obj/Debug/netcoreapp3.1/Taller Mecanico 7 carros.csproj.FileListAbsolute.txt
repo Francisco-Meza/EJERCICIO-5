@@ -1,0 +1,13 @@
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.csprojAssemblyReference.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.AssemblyInfo.cs
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.exe
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.deps.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.runtimeconfig.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.runtimeconfig.dev.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.dll
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\bin\Debug\netcoreapp3.1\Taller Mecanico 7 carros.pdb
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.dll
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.pdb
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller Mecanico 7 carros\obj\Debug\netcoreapp3.1\Taller Mecanico 7 carros.genruntimeconfig.cache
